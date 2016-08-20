@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - heart
+  - Android
+  - racoon
+  - dog
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - enemy
+  - ground
+  - backgroud
+  - other
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3971418011
+    locked: 1
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Caveman
+    uniqueID: 3564593767
+    locked: 1
+  - name: Raccoons
+    uniqueID: 3624765779
+    locked: 1
+  - name: Dogs
+    uniqueID: 2700409809
+    locked: 1
